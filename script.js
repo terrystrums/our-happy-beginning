@@ -1,5 +1,5 @@
 // Set the start date (in milliseconds since 1970)
-const startDate = new Date("2022-11-05T00:00:00").getTime();
+const startDate = new Date("2022-11-04T00:00:00").getTime();
 
 // Update the timer every second
 const timer = setInterval(function() {
